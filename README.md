@@ -40,10 +40,7 @@
 <br />
 
 ### Professional Badges
-[<img align="left" alt="Badge" width="26px" src="https://cdn.qwiklabs.com/cZxPxiN6EQYvtqLY59Jzv%2FNUl6t6KTEn4rCkTHOyWPY%3D" />]
-
-<br />
-<br />
+<img align="left" alt="Badge" width="72px" src="https://cdn.qwiklabs.com/cZxPxiN6EQYvtqLY59Jzv%2FNUl6t6KTEn4rCkTHOyWPY%3D" />
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiq-ali&show_icons=true&hide_border=true" />
