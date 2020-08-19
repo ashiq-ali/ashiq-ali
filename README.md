@@ -49,8 +49,6 @@
 <br />
 <br />
 <br />
-<b>&nbsp;&nbsp;&nbsp;&nbsp;Google Cloud</b> &nbsp;&nbsp &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<b> AEM </b>
 <br />
 <br />
 
