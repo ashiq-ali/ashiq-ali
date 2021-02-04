@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashiq.. 👋
 
-## I'm a DevOps Engineer,Blogger and a part time Photographer..!
+## I'm a DevOps Engineer,AEM Expert, Blogger and a part time Photographer..!
 - 🔭 I’m currently working on a Google Cloud Project.
 - 🌱 I’m currently learning everything 🤣 related to DevOps.
 - 👯 I’m looking to collaborate with other content creators.
