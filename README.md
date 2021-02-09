@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Google Cloud Project.
 - 🌱 I’m currently learning everything 🤣 related to DevOps.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects - Get Certifed in GCP and Kubernetes
+- 🥅 2021 Goals: Contribute more to Open Source projects - Get Certifed in GCP and Kubernetes
 - ⚡ Fun fact: I am a foodie and I love to travel.
 
 ### Connect with me:
