@@ -41,7 +41,6 @@
 
 ### Professional Badges
 <img align="left" alt="Badge" width="128px" src="https://cdn.qwiklabs.com/cZxPxiN6EQYvtqLY59Jzv%2FNUl6t6KTEn4rCkTHOyWPY%3D" />
-<img align="left" alt="Adobe" width="128px" src="https://images.youracclaim.com/size/340x340/images/713f3d63-8a57-4109-ba7b-55b142598c10/Adobe_Professional_Adobe_Experience_Manager_digital_badge.png" />
 
 <br />
 <br />
