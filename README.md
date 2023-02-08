@@ -4,7 +4,7 @@
 - 🔭 Cloud DevOps Engineer based out of London.
 - 🌱 I’m currently learning everything 🤣 related to DevOps.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects - Get Certifed in GCP and Kubernetes
+- 🥅 2023 Goals: Contribute more to Open Source projects - Get Certifed in GCP and Kubernetes
 - ⚡ Fun fact: I am a foodie and I love to travel.
 
 ### Connect with me:
