@@ -2,8 +2,6 @@
 
 ## I'm a DevOps Engineer,Trader,Blogger and a part time Photographer..!
 - 🔭 Cloud DevOps Engineer based out of London.
-- 🌱 I’m currently learning everything 🤣 related to DevOps.
-- 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I am a foodie and I love to travel.
 
 ### Connect with me:
