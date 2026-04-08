@@ -1,61 +1,86 @@
-### Hi there, I'm Ashiq.. 👋
+<h1 align="center">Hey, I'm Ashiq Ali 👋</h1>
 
-## I'm a DevOps Engineer,Trader,Blogger and a part time Photographer..!
-- 🔭 Cloud DevOps Engineer based out of London.
-- ⚡ Fun fact: I am a foodie and I love to travel.
+<p align="center">
+  <strong>Senior Platform Engineer · GCP & AI/ML Infrastructure · London</strong>
+</p>
 
-### Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashiq-ali-268a5599/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashiq%20Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/17_ashiq">
+    <img src="https://img.shields.io/badge/Twitter-@17__ashiq-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/theashiqali">
+    <img src="https://img.shields.io/badge/Instagram-@theashiqali-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+## About Me
 
-### Languages and Tools:
+I'm a Senior Platform Engineer on the **Data & AI/ML Platform team at Virgin Media O2**, building the infrastructure that lets data engineers and ML practitioners ship at scale — without fighting their platform.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/kubernetes/kubernetes.png" />][webdevplaylist]
-[<img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/docker/docker.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+- 🏗️ Managing a **4,000+ project GCP environment** and leading consolidation of 2,500+ Terraform repositories into a mono-repo
+- ☸️ Building **GKE-based infrastructure** for Data and AI/ML workloads
+- 🔐 Designing secure, scalable architectures using **Private Service Connect**, Secret Manager, and GCP PAM
+- 🤖 Exploring the intersection of platform engineering and **AI/ML infrastructure** — MLOps, model serving, GPU workloads
+- 📈 Active **futures trader** (NQ/MNQ & ES/MES), using ICT/SMC + Volume Profile methodology
+- 📷 Part-time **photographer** and **blogger** — fuelled by travel and good food
 
-<br />
-<br />
+---
 
-### Professional Badges
-<img align="left" alt="Badge" width="128px" src="https://cdn.qwiklabs.com/cZxPxiN6EQYvtqLY59Jzv%2FNUl6t6KTEn4rCkTHOyWPY%3D" />
+## Tech Stack
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+**Cloud & Infrastructure**
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashiq-ali&show_icons=true&hide_border=true" />
+![GCP](https://img.shields.io/badge/GCP-Expert-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Expert-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-[website]: https://
-[twitter]: https://twitter.com/17_ashiq
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/theashiqali
-[linkedin]: https://www.linkedin.com/in/ashiq-ali-268a5599/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+**GitOps & CI/CD**
+
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-Advanced-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-Advanced-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Observability & Platform**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-Advanced-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Advanced-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## What I'm Working On
+
+- 🧩 **Terraform mono-repo consolidation** — migrating 2,500+ repositories into a unified, scalable structure
+- 🔗 **Private Service Connect architecture** — bridging App Integration across Data and MSC domains using private endpoints
+- 🤖 **AI/ML Platform** — self-service infrastructure for data scientists and ML engineers on GKE
+- 📚 Deepening expertise in **MLOps, eBPF, and Linux internals**
+
+---
+
+## Career Journey
+
+```
+9+ years across:
+Virgin Media O2  →  Eviden (Atos)  →  Amadeus  →  TechMahindra  →  Wipro
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiq-ali&show_icons=true&hide_border=true&theme=default" />
+</p>
+
+---
+
+<p align="center">
+  <em>Based in London · Open to conversations about platform engineering, AI/ML infra, and the markets.</em>
+</p>
