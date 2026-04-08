@@ -11,9 +11,6 @@
   <a href="https://twitter.com/17_ashiq">
     <img src="https://img.shields.io/badge/Twitter-@17__ashiq-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/theashiqali">
-    <img src="https://img.shields.io/badge/Instagram-@theashiqali-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
