@@ -22,13 +22,6 @@
 
 I'm a Senior Platform Engineer on the **Data & AI/ML Platform team at Virgin Media O2**, building the infrastructure that lets data engineers and ML practitioners ship at scale — without fighting their platform.
 
-- 🏗️ Managing a **4,000+ project GCP environment** and leading consolidation of 2,500+ Terraform repositories into a mono-repo
-- ☸️ Building **GKE-based infrastructure** for Data and AI/ML workloads
-- 🔐 Designing secure, scalable architectures using **Private Service Connect**, Secret Manager, and GCP PAM
-- 🤖 Exploring the intersection of platform engineering and **AI/ML infrastructure** — MLOps, model serving, GPU workloads
-- 📈 Active **futures trader** (NQ/MNQ & ES/MES), using ICT/SMC + Volume Profile methodology
-- 📷 Part-time **photographer** and **blogger** — fuelled by travel and good food
-
 ---
 
 ## Tech Stack
@@ -55,12 +48,6 @@ I'm a Senior Platform Engineer on the **Data & AI/ML Platform team at Virgin Med
 
 ---
 
-## What I'm Working On
-
-- 🧩 **Terraform mono-repo consolidation** — migrating 2,500+ repositories into a unified, scalable structure
-- 🔗 **Private Service Connect architecture** — bridging App Integration across Data and MSC domains using private endpoints
-- 🤖 **AI/ML Platform** — self-service infrastructure for data scientists and ML engineers on GKE
-- 📚 Deepening expertise in **MLOps, eBPF, and Linux internals**
 
 ---
 
